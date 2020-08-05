@@ -324,3 +324,4 @@ bool IsMatch(int* numHit, int* numBlow)
 	}
 	return (*numHit == DIGITS);
 }
+// 変更加えるために、コメントを追加
