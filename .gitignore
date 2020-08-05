@@ -17,9 +17,6 @@ GameProgramming/Hit_And_Blow/実行サンプル/data/Number.png
 *.sqlite
 *.suo
 *.db
-*.db-shm
-*.db-wal
-*.opendb
 *.ipch
 GameProgramming/Hit_And_Blow/Project/data/
 GameProgramming/倉庫番/Project/data/
@@ -28,3 +25,7 @@ GameProgramming/マルバツ/Project/dxlib/
 GameProgramming/Hit_And_Blow/Project/dxlib/
 *.filters
 *.user
+GameProgramming/Hit_And_Blow/Project/x64/
+*.db-shm
+*.db-wal
+*.opendb
