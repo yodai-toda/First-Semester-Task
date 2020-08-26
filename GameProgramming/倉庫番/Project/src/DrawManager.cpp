@@ -169,3 +169,4 @@ void DrawGameClear()
 {
 	DrawGraph( (WINDOW_W / 2) - 160, (WINDOW_H / 2) - 160, ClearGraphHandle, TRUE );
 }
+
