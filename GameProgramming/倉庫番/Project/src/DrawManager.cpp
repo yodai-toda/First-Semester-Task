@@ -55,7 +55,7 @@ void DrawInit()
 			PlayerGraphHandle[i][j] = LoadGraph( str );
 		}
 	}
-
+	 
 	GroundGraphHandle = LoadGraph( "data/Ground/ground.png" );
 	BlockGraphHandle = LoadGraph( "data/Ground/block.png" );
 	for( int i = 0; i < CRATE_MAX; i++ )
